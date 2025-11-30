@@ -9,7 +9,7 @@
 Projek ini dibuat sebagai **Tugas Akhir / Final Project** Praktikum Pemrograman Web.
 
 ## 📸 Screenshots
-![Halaman Utama] <img width="2559" height="1521" alt="image" src="https://github.com/user-attachments/assets/e8d15455-536d-4a0b-9bb6-b30f2290fc07" />
+[Halaman Utama] <img width="2559" height="1521" alt="image" src="https://github.com/user-attachments/assets/e8d15455-536d-4a0b-9bb6-b30f2290fc07" />
 
 ## ✨ Fitur Utama
 Aplikasi ini memiliki fitur **CRUD** (Create, Read, Update, Delete) yang lengkap:
