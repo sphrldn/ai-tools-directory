@@ -10,8 +10,11 @@ Projek ini dibuat sebagai **Tugas Akhir / Final Project** Praktikum Pemrograman 
 
 ## 📸 Screenshots
 [Landing Page] <img width="2559" height="1525" alt="image" src="https://github.com/user-attachments/assets/100700c0-18f8-4db3-bcb3-937c2e306b90" />
+
 [Home Page] <img width="2559" height="1503" alt="image" src="https://github.com/user-attachments/assets/40ae20ce-46b2-485f-91c4-205e60681491" />
+
 [Create Page] <img width="2559" height="1524" alt="image" src="https://github.com/user-attachments/assets/a4c12bc6-cc7f-4fcd-8ef7-a8cc6fd8360c" />
+
 [Edit Page] <img width="2559" height="1520" alt="image" src="https://github.com/user-attachments/assets/ac72bc77-39ec-4309-9077-d316e8b20ad8" />
 
 
