@@ -68,7 +68,7 @@
         </a>
 
         <div class="mt-5 text-white-50 small">
-            &copy; Ujian PWEB Saphira Aldyna Masik
+            &copy; Aurel Ariella Anjani & Saphira Aldyna Masik
         </div>
     </div>
 
