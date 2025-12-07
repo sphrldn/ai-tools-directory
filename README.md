@@ -69,10 +69,15 @@ Jika ingin menjalankan projek ini di komputer lokal, ikuti langkah berikut:
     ```
     Buka browser dan akses: `http://127.0.0.1:8000`
 
-## 👤 Author
+## 👤 Author 1
+* **Nama:** Aurel Ariella Anjani
+* **NPM:** 50423232
+* **Kelas:** 3IA01
+
+## 👤 Author 2
 * **Nama:** Saphira Aldyna Masik
 * **NPM:** 51423361
 * **Kelas:** 3IA01
 
 ---
-*Dibuat dengan ❤️ menggunakan Laravel.*
+*Dibuat untuk projek akhir praktikum Pemrograman Website.*
